@@ -9,6 +9,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR1b0004_WYG_020-1a01}
   - {type: indent, offset: 0, content: 　　, id: KR1b0004_WYG_020-bkkind1}
   - {type: punctuation, offset: 2, content: (, id: KR1b0004_WYG_020-bkkpn1}
+  - {type: voice, offset: 2, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 5, content: /, id: KR1b0004_WYG_020-bkkpn2}
   - {type: punctuation, offset: 5, content: ), id: KR1b0004_WYG_020-bkkpn3}
   - {type: 'kr:newline', offset: 19, content: '
@@ -368,9 +369,11 @@ markers:
       ', id: KR1b0004_WYG_020-bkkkrnewl74}
   - {type: line-break, offset: 1224, content: '', id: KR1b0004_WYG_020-5a02}
   - {type: punctuation, offset: 1227, content: (, id: KR1b0004_WYG_020-bkkpn4}
+  - {type: voice, offset: 1227, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1228, content: /, id: KR1b0004_WYG_020-bkkpn5}
   - {type: punctuation, offset: 1228, content: ), id: KR1b0004_WYG_020-bkkpn6}
   - {type: punctuation, offset: 1232, content: (, id: KR1b0004_WYG_020-bkkpn7}
+  - {type: voice, offset: 1232, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1234, content: /, id: KR1b0004_WYG_020-bkkpn8}
   - {type: punctuation, offset: 1234, content: ), id: KR1b0004_WYG_020-bkkpn9}
   - {type: 'kr:newline', offset: 1245, content: '
@@ -389,6 +392,7 @@ markers:
   - {type: line-break, offset: 1283, content: '', id: KR1b0004_WYG_020-5a05}
   - {type: indent, offset: 1283, content: 　　, id: KR1b0004_WYG_020-bkkind68}
   - {type: punctuation, offset: 1290, content: (, id: KR1b0004_WYG_020-bkkpn10}
+  - {type: voice, offset: 1290, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1291, content: /, id: KR1b0004_WYG_020-bkkpn11}
   - {type: punctuation, offset: 1291, content: ), id: KR1b0004_WYG_020-bkkpn12}
   - {type: paragraph-break, offset: 1293, content: '
@@ -396,4 +400,4 @@ markers:
 
       ', id: KR1b0004_WYG_020-bkkp1}
   back: []
-hash: sha256:25c67e93d305426c9834d7130386c613b267a1a57dffc8f9c9fca29007a067a8
+hash: sha256:304579f47351670c811c6010bb1fd44b91def7b1241074984a5509e1e27e174f
